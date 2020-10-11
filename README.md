@@ -1,7 +1,18 @@
-### Hi there 👋
+### Java Back End Developer
+- (2015.03 ~ 2021.02(Expected))Chungnam National University
 
+### Interest
+- Java
+- Spring Framework
+- Mysql
+
+### How to Contact me
+💬 clack2933@gmail.com
+
+![kihwankim github status](https://github-readme-stats.vercel.app/api?username=kihwankim&show_icons=true)
 <!--
 **kihwankim/kihwankim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
