@@ -1,10 +1,11 @@
-### Java Back End Developer
+### Java Back End Developer or Infra Engineer
 - (2015.03 ~ 2021.02(Expected))Chungnam National University
 
 ### Interest
 - Java
 - Spring Framework
 - Mysql
+- Network
 
 ### How to Contact me
 💬 clack2933@gmail.com
