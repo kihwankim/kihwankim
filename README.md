@@ -1,5 +1,5 @@
 ### Java Back End Developer or Infra Engineer
-- (2015.03 ~ 2021.02(Expected))Chungnam National University
+- (2015.03 ~ 2021.02)Chungnam National University
 
 ### Interest
 - Java
