@@ -2,12 +2,15 @@
 - (2015.03 ~ 2021.02) Chungnam National University
 - (2021.01 ~ 2021.06) NHN 인턴
 - (2021.08 ~ 2022.01) YAPP 동아리
-- (2021.07 ~ 현재) NHN 사원
+- (2021.07 ~ 2022.07) NHN 사원
+- (2022.07 ~ 현재) zuminternet 사원
 
 ### Interest
 - Java
 - Spring Framework
-- Mysql
+- redis
+- kafka
+- rdb(MySQL)
 - Network
 
 ### How to Contact me
