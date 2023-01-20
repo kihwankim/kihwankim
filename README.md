@@ -6,6 +6,7 @@
 - (2022.07 ~ 2023.01) zuminternet 사원
 
 ### Interest
+- Kotlin
 - Java
 - Spring Framework
 - redis
