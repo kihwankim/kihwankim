@@ -1,11 +1,4 @@
 ### Back End Developer or Infra Engineer
-- (2015.03 ~ 2021.02) Chungnam National University
-- (2021.01 ~ 2021.06) NHN 인턴
-- (2021.08 ~ 2022.01) YAPP 동아리
-- (2021.07 ~ 2022.07) NHN 사원
-- (2022.07 ~ 2023.01) zuminternet 사원
-
-### Interest
 - Kotlin
 - Java
 - Spring Framework
